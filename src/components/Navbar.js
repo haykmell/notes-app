@@ -4,7 +4,7 @@ const Navbar = () => {
   return (
     <header>
       <div className="container">
-        <a href="/" className="navbar-logo">
+        <a href="/" rel="noreferrer" className="navbar-logo">
           Notes <span className="f-light">Application</span>
         </a>
         <div className="nav-link">
