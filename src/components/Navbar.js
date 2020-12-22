@@ -8,7 +8,7 @@ const Navbar = () => {
           Notes <span className="f-light">Application</span>
         </a>
         <div className="nav-link">
-          <a href="https://github.com/haykmell" target="_blank">
+          <a href="https://github.com/haykmell" rel="noreferrer" target="_blank">
             GitHub
           </a>
         </div>
